@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ## Technologies
 
-[![Angular][Angular.io]][Angular-url] [![Node][Node.js]][Node-url]
+[![Angular][Angular.io]][Angular-url]
+[![Node][Node.js]][Node-url]
 
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
