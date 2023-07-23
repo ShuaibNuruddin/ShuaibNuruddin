@@ -67,3 +67,6 @@ Here are some ideas to get you started:
 [R-url]: https://www.r-project.org/
 [MATLAB]: https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white
 [MATLAB-url]: https://www.mathworks.com/
+
+<h1 align="center"> Other Accounts: </h1>
+
