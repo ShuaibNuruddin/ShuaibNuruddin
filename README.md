@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I have worked with these technologies:
 
-[![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![Javascript][Javascript]][Javascript-url] [![Typescript][Typescript]][Typescript-url] [![PHP][PHP]][PHP-url] [![SQL][SQL]][SQL-url] [![IONIC][IONIC]][IONIC-url] [![Firebase][Firebase]][Firebase-url] [![C][C]][C-url] [![C++][C++]][C++-url] [![Java][Java]][Java-url] [![Python][Python]][Python-url] [![Jest][Jest]][Jest-url] [![GitHub Actions][GitHub-Actions]][GitHub-Actions-url] [![Latex][Latex]][Latex-url] [![Figma][Figma]][Figma-url] [![Angular][Angular.io]][Angular-url] [![Node.js][Node.js]][Node-url]
+[![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![Javascript][Javascript]][Javascript-url] [![Typescript][Typescript]][Typescript-url] [![PHP][PHP]][PHP-url] [![SQL][SQL]][SQL-url] [![IONIC][IONIC]][IONIC-url] [![Firebase][Firebase]][Firebase-url] [![C][C]][C-url] [![C++][C++]][C++-url] [![Java][Java]][Java-url] [![Python][Python]][Python-url] [![Jest][Jest]][Jest-url] [![GitHub Actions][GitHub-Actions]][GitHub-Actions-url] [![Latex][Latex]][Latex-url] [![Figma][Figma]][Figma-url] [![Angular][Angular.io]][Angular-url] [![Node.js][Node.js]][Node-url] [![R][R]][R-url] [![MATLAB][MATLAB]][MATLAB-url]
 <!--[![Next][Next.js]][Next-url]-->
 
 <h1 align="center"> GitHub Stats </h1>
@@ -63,3 +63,7 @@ Here are some ideas to get you started:
 [Latex-url]: https://www.latex-project.org/
 [Figma]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [Figma-url]: https://www.figma.com/
+[R]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+[R-url]: https://www.r-project.org/
+[MATLAB]: https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white
+[MATLAB-url]: https://www.mathworks.com/
