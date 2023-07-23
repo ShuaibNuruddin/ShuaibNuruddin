@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋. I'm Shuaib Nuruddin. I'm a 3rd year Computer Science student at the University of Pretoria. I'm passionate about software engineering and enjoy learning about new technologies. I am also interested in AI, data science and cyber security.
 
 <!--
 **ShuaibNuruddin/ShuaibNuruddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
