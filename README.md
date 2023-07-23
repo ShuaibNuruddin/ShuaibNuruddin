@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> I have worked with these technologies: </h1>
+<h1 align="center"> I have used these technologies: </h1>
 
 [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![Javascript][Javascript]][Javascript-url] [![Typescript][Typescript]][Typescript-url] [![PHP][PHP]][PHP-url] [![SQL][SQL]][SQL-url] [![IONIC][IONIC]][IONIC-url] [![Firebase][Firebase]][Firebase-url] [![C][C]][C-url] [![C++][C++]][C++-url] [![Java][Java]][Java-url] [![Python][Python]][Python-url] [![Jest][Jest]][Jest-url] [![GitHub Actions][GitHub-Actions]][GitHub-Actions-url] [![Latex][Latex]][Latex-url] [![Figma][Figma]][Figma-url] [![Angular][Angular.io]][Angular-url] [![Node.js][Node.js]][Node-url] [![R][R]][R-url] [![MATLAB][MATLAB]][MATLAB-url]
 <!--[![Next][Next.js]][Next-url]-->
@@ -69,4 +69,4 @@ Here are some ideas to get you started:
 [MATLAB-url]: https://www.mathworks.com/
 
 <h1 align="center"> Other Accounts: </h1>
-
+<a href="https://www.linkedin.com/in/shuaib-nuruddin-2b4808267/"> <img src="Resources/LinkedInLogo.svg" width="200" height="50"> </a>
