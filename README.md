@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 [MATLAB-url]: https://www.mathworks.com/
 
 <h1 align="center"> Other Accounts: </h1>
-<div align="center"><a href="https://www.linkedin.com/in/shuaib-nuruddin-2b4808267/"><img src="ReadMeImages/LI-Logo.png" width="50px"/></a></div">
+<div align="center"><a href="https://www.linkedin.com/in/shuaib-nuruddin-2b4808267/"><img src="ReadMeImages/LI-Logo.png" height="50px"/></a></div">
 <!--<a href="">ReplIt/a>-->
 <!--<a href="">TryHackMe/a>-->
