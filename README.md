@@ -69,4 +69,6 @@ Here are some ideas to get you started:
 [MATLAB-url]: https://www.mathworks.com/
 
 <h1 align="center"> Other Accounts: </h1>
-<a href="https://www.linkedin.com/in/shuaib-nuruddin-2b4808267/"> <img src="Resources/LinkedInLogo.svg" width="200" height="50"> </a>
+<a align="center" href="https://www.linkedin.com/in/shuaib-nuruddin-2b4808267/">LinkedIn/a>
+<!--<a href="">ReplIt/a>-->
+<!--<a href="">TryHackMe/a>-->
