@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Technologies
+## I have worked with these technologies:
 
 [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![Javascript][Javascript]][Javascript-url] [![Typescript][Typescript]][Typescript-url] [![PHP][PHP]][PHP-url] [![SQL][SQL]][SQL-url] [![IONIC][IONIC]][IONIC-url] [![Firebase][Firebase]][Firebase-url] [![C][C]][C-url] [![C++][C++]][C++-url] [![Java][Java]][Java-url] [![Python][Python]][Python-url] [![Jest][Jest]][Jest-url] [![GitHub Actions][GitHub-Actions]][GitHub-Actions-url] [![Latex][Latex]][Latex-url] [![Figma][Figma]][Figma-url] [![Angular][Angular.io]][Angular-url] [![Node.js][Node.js]][Node-url]
 <!--[![Next][Next.js]][Next-url]-->
+
+<h1 align="center"> GitHub Stats </h1>
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShuaibNuruddin&count_private=true&show_icons=true&theme=transparent" />
+</div>
 
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
