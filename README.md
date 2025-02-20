@@ -1,4 +1,4 @@
-## Hi there 👋. I'm Shuaib Nuruddin. I'm a BScHons Computer Science student at the University of Pretoria. I'm passionate about Software Engineering and enjoy learning about new technologies. I am also interested in AI, Data Science and Cybersecurity.
+## Hi there 👋. I'm Shuaib Nuruddin. I'm an MSc Computer Science student at the University of Pretoria. I'm passionate about Software Engineering and enjoy learning about new technologies. I am also interested in AI, Data Science and Cybersecurity.
 
 <!--
 **ShuaibNuruddin/ShuaibNuruddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
